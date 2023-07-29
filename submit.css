@@ -1,0 +1,10 @@
+body {
+    background-color: grey;
+    background-image: url('mount.jpg');
+}
+
+form {
+    text-align: center;
+    margin-top: 170px;
+    font-size: large;
+}
